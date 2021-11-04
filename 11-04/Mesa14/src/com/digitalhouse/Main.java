@@ -29,10 +29,9 @@ public class Main {
         contatos.add(contato3);
 
         //Criar arquivo
-        FileOutputStream fileOut;
 
         try{
-            fileOut = new FileOutputStream("ListaContatos.txt");
+            FileOutputStream fileOut = new FileOutputStream("ListaContatos.txt");
             ObjectOutputStream objOut = new ObjectOutputStream(fileOut);
 
             objOut.writeObject(contatos);
@@ -45,10 +44,9 @@ public class Main {
 
         //Para ler um arquivo
         List<Contato> contatos2 = null;
-        FileInputStream fileInput;
 
         try {
-            fileInput = new FileInputStream("ListaContatos.txt");
+            FileInputStream fileInput = new FileInputStream("ListaContatos.txt");
             ObjectInputStream objIn = new ObjectInputStream(fileInput);
 
             contatos2 = (ArrayList) objIn.readObject();
