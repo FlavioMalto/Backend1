@@ -1,6 +1,7 @@
 package com.digitalhouse.model;
 
 public class Endereco {
+    private Integer id;
     private String rua;
     private String numero;
     private String cidade;
@@ -11,6 +12,14 @@ public class Endereco {
         this.numero = numero;
         this.cidade = cidade;
         this.estado = estado;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public String getRua() {

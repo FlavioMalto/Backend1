@@ -1,5 +1,6 @@
 package com.digitalhouse.model;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public class Paciente {
@@ -7,7 +8,7 @@ public class Paciente {
     private String nome;
     private String sobrenome;
     private String rg;
-    private Date dataCadastro = new Date();
+    private LocalDate dataCadastro = LocalDate.now();
     private Endereco endereco;
 
     public Paciente(String nome, String sobrenome, String rg, Endereco endereco) {
@@ -49,7 +50,7 @@ public class Paciente {
         this.rg = rg;
     }
 
-    public Date getDataCadastro() {
+    public LocalDate getDataCadastro() {
         return dataCadastro;
     }
 
