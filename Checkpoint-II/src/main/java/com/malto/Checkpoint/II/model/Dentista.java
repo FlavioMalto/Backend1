@@ -18,6 +18,8 @@ public class Dentista {
     @OneToMany(mappedBy = "dentista")
     private Set<Paciente> pacientes = new HashSet<>();
 
+    public Dentista(){}
+
     public Integer getId() {
         return id;
     }

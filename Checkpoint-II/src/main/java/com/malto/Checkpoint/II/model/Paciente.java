@@ -20,6 +20,8 @@ public class Paciente {
     @JsonIgnore
     private Dentista dentista;
 
+    public Paciente(){}
+
     public Paciente(String nome, String sobrenome, String email, Dentista dentista) {
         this.nome = nome;
         this.sobrenome = sobrenome;

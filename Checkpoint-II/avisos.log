@@ -1,0 +1,41 @@
+[2021-12-01 11:50:46] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 11:51:27] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 11:51:52] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 11:54:40] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 11:55:55] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 11:56:07] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 11:56:25] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 11:56:49] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 11:57:46] [ INFO ] [PacienteService:60] O paciente de id 7 foi DELETADO
+[2021-12-01 12:00:45] [ INFO ] [PacienteService:60] O paciente de id 7 foi DELETADO
+[2021-12-01 12:05:30] [ INFO ] [DentistaService:25] todos os dentistas foram selecionados.
+[2021-12-01 12:09:01] [ INFO ] [DentistaService:25] todos os dentistas foram selecionados.
+[2021-12-01 12:09:25] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:10:14] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:10:31] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:10:45] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:11:05] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:11:16] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:11:34] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:11:43] [ INFO ] [DentistaService:25] todos os dentistas foram selecionados.
+[2021-12-01 12:12:49] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:12:56] [ INFO ] [PacienteService:60] O paciente de id 8 foi DELETADO
+[2021-12-01 12:13:41] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:14:30] [ INFO ] [DentistaService:30] O dentista de id 1 foi SELECIONADO.
+[2021-12-01 12:17:27] [ INFO ] [PacienteService:41] O Paciente de id 1 foi SELECIONADO.
+[2021-12-01 12:17:41] [ INFO ] [PacienteService:41] O Paciente de id 4 foi SELECIONADO.
+[2021-12-01 12:19:46] [ INFO ] [DentistaService:36] O dentista de id 1 foi EDITADO.
+[2021-12-01 12:19:46] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:21:00] [ INFO ] [PacienteService:47] O paciente de id 9 foi EDITADO.
+[2021-12-01 12:21:00] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:24:10] [ INFO ] [DentistaService:46] O dentista de id 3 foi DELETADO
+[2021-12-01 12:28:33] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:28:50] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:29:08] [ INFO ] [DentistaService:20] Dentista criado com sucesso.
+[2021-12-01 12:29:18] [ INFO ] [DentistaService:25] todos os dentistas foram selecionados.
+[2021-12-01 12:29:25] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:29:43] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:29:56] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:30:07] [ INFO ] [PacienteService:27] Paciente criado com sucesso.
+[2021-12-01 12:30:12] [ INFO ] [DentistaService:25] todos os dentistas foram selecionados.
+[2021-12-01 12:31:20] [ INFO ] [PacienteService:47] O paciente de id 6 foi EDITADO.
